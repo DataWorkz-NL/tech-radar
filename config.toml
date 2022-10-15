@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://dataworkz-nl.github.io/tech-radar/'
 languageCode = 'en-us'
 title = 'Blipz Tech Radar'
 
