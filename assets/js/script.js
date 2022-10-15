@@ -181,7 +181,7 @@
   }
 
   if ($("#radar").length) {
-    fetch("/data/radar.csv")
+    fetch("data/radar.csv")
       .then(function (resp) {
         return resp.text();
       })
