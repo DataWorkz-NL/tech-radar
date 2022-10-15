@@ -1,0 +1,6 @@
+[submodule "themes/educenter"]
+	path = themes/educenter
+	url = https://github.com/themefisher/educenter-hugo
+[submodule "themes/dataworkz"]
+	path = themes/dataworkz
+	url = https://github.com/DataWorkz-NL/dataworkz-hugo
