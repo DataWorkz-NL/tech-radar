@@ -42,8 +42,13 @@
 .pointer {
   &__text {
     fill: #000;
-    text-anchor: middle;
+    text-anchor: left;
     font-size: 1em;
+    text-shadow:
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;
   }
 }
 

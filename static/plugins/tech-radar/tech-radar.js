@@ -49,7 +49,7 @@ function techRadarViz(config) {
 
   var numberCache = {};
 
-  var seed = 5;
+  var seed = 4;
   function random() {
     var x = Math.sin(seed++) * 10000;
     return x - Math.floor(x);
