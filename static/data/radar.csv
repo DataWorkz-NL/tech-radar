@@ -2,8 +2,8 @@ name;ring;quadrant;isNew;description;suggested by
 Data Mesh;Assess;Techniques;FALSE; ;
 Sustainable IT;Trial;Techniques;FALSE; ;
 Polars;Adopt;Languages and Frameworks;FALSE; ;
-CDK;Hold;Platforms; FALSE; ;
-Lets train humans instead;Hold;Techniques;FALSE; ;
+CDK;Trial;Platforms; FALSE; ;
+Lets train humans instead;Assess;Techniques;FALSE; ;
 Osint;Hold;Techniques;FALSE; ;
 Hazelcast ML;Hold;Platforms; FALSE; ;
 Destructive testing;Hold;Languages and Frameworks; FALSE; ;
