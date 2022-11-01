@@ -9,4 +9,4 @@ Hazelcast ML;Assess;Platforms; FALSE; ;
 Destructive testing;Adopt;Languages and Frameworks; FALSE; ;
 Pachyderm;Assess;Tools; FALSE; ;
 Azure Biceps;Assess;Languages and Frameworks; FALSE; ;
-Perimeter security is dead;Hold;Techniques; FALSE; ;
+Perimeter security is dead;Adopt;Techniques; FALSE; ;
