@@ -6,7 +6,7 @@ CDK;Trial;Platforms; FALSE; ;
 Lets train humans instead;Assess;Techniques;FALSE; ;
 Osint;Adopt;Techniques;FALSE; ;
 Hazelcast ML;Assess;Platforms; FALSE; ;
-Destructive testing;Hold;Languages and Frameworks; FALSE; ;
+Destructive testing;Adopt;Languages and Frameworks; FALSE; ;
 Pachyderm;Assess;Tools; FALSE; ;
 Azure Biceps;Hold;Languages and Frameworks; FALSE; ;
 Perimeter security is dead;Hold;Techniques; FALSE; ;
