@@ -256,26 +256,26 @@ function toEntry(row) {
 
 var rings = [
   {
-    name: "Hold",
+    name: "Hold it",
     color: "#E74C3C",
   },
   {
-    name: "Assess",
+    name: "Know it",
     color: "#3498DB",
   },
   {
-    name: "Trial",
+    name: "Try it",
     color: "#F1C40F",
   },
   {
-    name: "Adopt",
+    name: "Use it",
     color: "#1ABC9C",
   },
 ];
 
 var quadrants = [
-  "Languages and Frameworks",
-  "Platforms",
-  "Tools",
-  "Techniques",
+  "Dev",
+  "Data",
+  "Security",
+  "DevOps",
 ];

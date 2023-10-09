@@ -1,5 +1,5 @@
 name;ring;quadrant;isNew;description;suggested by
-Values in Tech, buzzword or action items;Try it;DevDataSecOps;FALSE; ;
+Values in Tech, buzzword or action items;Try it;Dev;FALSE; ;
 API Security with generative AI;Try it;Security;FALSE; ;
 What the Data?!;Try it;Data;FALSE; ;
 MOJO The AI Lanuage;Try it;Dev;FALSE; ;
@@ -12,4 +12,4 @@ SRKV custom key value store;Try it;Data; FALSE; ;
 Kitten enforce security;Try it;Security; FALSE; ;
 IAC with AI;Try it;DevOps; FALSE; ;
 Stream Procesing;Try it;Dev; FALSE; ;
-AI What happens to our WoW;Try it;DevDataSecOps; FALSE; ;
+AI What happens to our WoW;Try it;Dev; FALSE; ;
