@@ -1,12 +1,15 @@
 name;ring;quadrant;isNew;description;suggested by
-Data Mesh;Assess;Techniques;FALSE; ;
-Sustainable IT;Trial;Techniques;FALSE; ;
-Polars;Adopt;Languages and Frameworks;FALSE; ;
-CDK;Trial;Platforms; FALSE; ;
-Lets train humans instead;Assess;Techniques;FALSE; ;
-Osint;Adopt;Techniques;FALSE; ;
-Hazelcast ML;Assess;Platforms; FALSE; ;
-Destructive testing;Adopt;Languages and Frameworks; FALSE; ;
-Pachyderm;Assess;Tools; FALSE; ;
-Azure Biceps;Assess;Languages and Frameworks; FALSE; ;
-Perimeter security is dead;Adopt;Techniques; FALSE; ;
+Values in Tech, buzzword or action items;Try it;DevDataSecOps;FALSE; ;
+API Security with generative AI;Try it;Security;FALSE; ;
+What the Data?!;Try it;Data;FALSE; ;
+MOJO The AI Lanuage;Try it;Dev;FALSE; ;
+MutationTesting;Try it;Dev; FALSE; ;
+Ransomware never really left;Try it;Security;FALSE; ;
+DuckDB;Try it;Data;FALSE; ;
+Doing multi cloud;Try it;DevOps; FALSE; ;
+Zero trust security;Try it;Security; FALSE; ;
+SRKV custom key value store;Try it;Data; FALSE; ;
+Kitten enforce security;Try it;Security; FALSE; ;
+IAC with AI;Try it;DevOps; FALSE; ;
+Stream Procesing;Try it;Dev; FALSE; ;
+AI What happens to our WoW;Try it;DevDataSecOps; FALSE; ;
